@@ -6,12 +6,12 @@ body{
 }
 h1{
   margin-top: 0;
-  font-size: 60px;
+  font-size: 40px;
   color: #002366;
   font-family: 'Italianno', cursive
 }
 .description{
-  font-size: 30px;
+  font-size: 20px;
     color: #0F044C;
   font-weight: normal;
 }
