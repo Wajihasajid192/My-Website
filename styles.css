@@ -73,11 +73,11 @@ height: 140px;
 .top-cloud{
   position: absolute;
   top: 50px;
-  right: 300px;
+  right: 200px;
 }
 .bottom-cloud{
   position: absolute;
-  left: 300px;
+  left: 200px;
   bottom: 300px;
 
 }
